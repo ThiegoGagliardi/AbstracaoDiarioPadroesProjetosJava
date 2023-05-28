@@ -1,0 +1,4 @@
+2023-05-28;CAPITULO;Bob Finger;Diario escrito a primeira vez
+2023-05-28;NOTAS_RODAPE;Nota de rodapé
+2023-05-28;CAPITULO;Bob Finger;Diario escrito a primeira vez
+2023-05-28;NOTAS_RODAPE;Nota de rodapé
